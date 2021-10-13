@@ -1,5 +1,7 @@
 # Data-Science-and-Business-Analytics-Internship @ TSF
 
-## * Name : Omkar Rajendra Lokhande
+This repository contains task that I have completed as data science intern at The Spark Foundation
 
-## * GRIPOCTOBER21 
+### * Name : Omkar Rajendra Lokhande
+
+### * GRIPOCTOBER21 
